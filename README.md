@@ -17,16 +17,11 @@ All the PokeNexus players know that the game requires a lot of time and effort b
 - Mining
 - EV Training
 - Battle Tower
-- Choose Attack
-- Auto Evolve
-- Rejects Friend/Battle/Trade Requests
-- Scan Pokemon Encounters
 - Discord Notification
 - Auto Catch
-- Scan Shinies [S]
+- Catch Shinies [S]
 - Run from Elites [E]
-- Switch Pokemon if Lead is Dead during Battle
-- Auto Heal after Battle
+- Auto Heal
 - Take breaks
 - Auto Close
 
