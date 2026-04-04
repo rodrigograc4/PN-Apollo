@@ -1,16 +1,25 @@
+<div align="center">
+
 # 🦊 PokeNexus Apollo
 
-PokeNexus Apollo is a BOT for PokeNexus (Pokemon Planet) Online Unity, that can do Grinding, Fishing, Mining, EV Training and Battle Tower grinding.
+The best PokeNexus bot at [pokenexus-apollo.com](https://pokenexus-apollo.com)
 
-## Official Website
+<a href="https://pokenexus-apollo.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-EA7220?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://discord.gg/YWRyGww3r7" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://www.youtube.com/channel/UCjl6JOT5ALPbrYqz7CZwEpQ" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-E00020?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
-https://pokenexus-apollo.com
+</div>
 
-## Why it exists ?
+<br>
+<br>
 
-All the PokeNexus players know that the game requires a lot of time and effort because its essencially a grinding game, so this BOT is for the people who don't have that much time or just find it boring, but still want to have fun getting good pokemon and battling.
+PokeNexus Apollo is a BOT for PokeNexus Online Unity, that can do Grinding, Fishing, Mining, EV Training and Battle Tower grinding.
 
-## What are all the features ?
+## Why it exists?
+
+All the PokeNexus players know that the game requires a lot of time and effort because its essentially a grinding game, so this BOT is for the people who don't have that much time or just find it boring, but still want to have fun getting good pokemon and battling.
+
+## What are the features?
 
 - Grinding
 - Fishing
@@ -24,15 +33,3 @@ All the PokeNexus players know that the game requires a lot of time and effort b
 - Auto Heal
 - Take breaks
 - Auto Close
-
-## Discord
-
-Server: https://discord.gg/YWRyGww3r7
-
-My Username: blu3unicorn
-
-## Youtube
-
-You can check the youtube videos on our channel to see how it works.
-
-https://www.youtube.com/channel/UCjl6JOT5ALPbrYqz7CZwEpQ
